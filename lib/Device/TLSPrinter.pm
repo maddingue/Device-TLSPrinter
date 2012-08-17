@@ -1435,15 +1435,15 @@ C<ROTATION_NONE> - no rotation
 
 =item *
 
-C<ROTATION_90> - rotate by 90°
+C<ROTATION_90> - rotate by 90E<deg>
 
 =item *
 
-C<ROTATION_180> - rotate by 180°
+C<ROTATION_180> - rotate by 180E<deg>
 
 =item *
 
-C<ROTATION_270> - rotate by 270°
+C<ROTATION_270> - rotate by 270E<deg>
 
 =back
 
