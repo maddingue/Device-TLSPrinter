@@ -1515,7 +1515,7 @@ L<http://www.bradyid.com/bradyid/downloads/downloadsPageView.do?file=TLSPCLink_P
 
 Please report any bugs or feature requests to
 C<bug-device-tlsprinter at rt.cpan.org>, or through the web interface at
-L<https://rt.cpan.org/Public/Dist/Display.html?Name=Device-TLSPrinter>.
+L<https://rt.cpan.org/Dist/Display.html?Name=Device-TLSPrinter>.
 I will be notified, and then you'll automatically be notified of progress on
 your bug as I make changes.
 
@@ -1530,21 +1530,25 @@ You can also look for information at:
 
 =over
 
-=item * AnnoCPAN: Annotated CPAN documentation
+=item * MetaCPAN
 
-L<http://annocpan.org/dist/Device-TLSPrinter>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/Device-TLSPrinter>
-
-=item * RT: CPAN's request tracker
-
-L<https://rt.cpan.org/Public/Dist/Display.html?Name=Device-TLSPrinter>
+L<https://metacpan.org/module/Device::TLSPrinter>
 
 =item * Search CPAN
 
 L<http://search.cpan.org/dist/Device-TLSPrinter>
+
+=item * AnnoCPAN: Annotated CPAN documentation
+
+L<http://annocpan.org/dist/Device-TLSPrinter>
+
+=item * RT: CPAN's request tracker
+
+L<https://rt.cpan.org/Dist/Display.html?Name=Device-TLSPrinter>
+
+=item * CPAN Ratings
+
+L<http://cpanratings.perl.org/d/Device-TLSPrinter>
 
 =back
 
@@ -1556,7 +1560,7 @@ SE<eacute>bastien Aperghis-Tramoni, C<< <sebastien (at) aperghis.net> >>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2006-2011 SE<eacute>bastien Aperghis-Tramoni, all rights reserved.
+Copyright 2006-2012 SE<eacute>bastien Aperghis-Tramoni, all rights reserved.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.

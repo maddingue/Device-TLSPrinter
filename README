@@ -38,14 +38,17 @@ SUPPORT AND DOCUMENTATION
 
     You can also look for information at:
 
+        MetaCPAN
+            https://metacpan.org/module/Device::TLSPrinter
+
         Search CPAN
             http://annocpan.org/dist/Device-TLSPrinter
 
-        CPAN Request Tracker:
-            https://rt.cpan.org/Public/Dist/Display.html?Name=Device-TLSPrinter
-
         AnnoCPAN, annotated CPAN documentation:
             http://annocpan.org/dist/Device-TLSPrinter
+
+        CPAN Request Tracker:
+            https://rt.cpan.org/Dist/Display.html?Name=Device-TLSPrinter
 
         CPAN Ratings:
             http://cpanratings.perl.org/d/Device-TLSPrinter
