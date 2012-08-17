@@ -6,7 +6,7 @@ use Exporter ();
 
 {
     no strict "vars";
-    $VERSION = '0.50';
+    $VERSION = '0.51';
     @ISA = qw< Exporter Class::Accessor >;
 
     %EXPORT_TAGS = (

@@ -1,5 +1,6 @@
 Revision history for Device-TLSPrinter
 
+0.51    2012.08.17  (SAPER)
         [DOC] CPAN-RT #79038: Non-ASCII character seen before =encoding
         (Andreas Koenig).
         [DIST] Added meta-information in Build.PL and Makefile.PL
