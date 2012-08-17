@@ -14,6 +14,11 @@ my $builder = Module::Build->new(
         'Module::Build'     => '0.38',
         'Test::More'        => '0.70',
     },
+    meta_merge => {
+        resources       => {
+            repository  => "https://github.com/maddingue/Device-TLSPrinter.git",
+        }
+    },
     add_to_cleanup      => [ 'Device-TLSPrinter-*' ],
 );
 

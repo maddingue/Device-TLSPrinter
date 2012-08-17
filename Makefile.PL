@@ -16,6 +16,11 @@ WriteMakefile(
         # build/test prereqs
         'Test::More'        => '0.70',
     },
+    META_MERGE => {
+        resources       => {
+            repository  => "https://github.com/maddingue/Device-TLSPrinter.git",
+        }
+    },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Device-TLSPrinter-*' },
 );
